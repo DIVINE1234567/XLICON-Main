@@ -7,12 +7,12 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233531910067', 'Abraham Dwamena3', true],
+  ['2349035923173', 'DIVINE', true], 
+  ['233208179431', 'Abraham Dwamena', false],
+  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', false], 
+  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', false],
+  ['233533763772', 'Abraham Dwamena2', false],
+  ['233531910067', 'Abraham Dwamena3', false],
   
 ] //Number of owners
 
@@ -55,9 +55,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'DIVINE AI'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
+global.packname = 'DIVINE TEAM' 
 global.author = '@XLICON-V2' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
